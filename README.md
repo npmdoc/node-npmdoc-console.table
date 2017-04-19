@@ -1,9 +1,14 @@
-# api documentation for  [console.table (v0.8.0)](https://github.com/bahmutov/console.table)  [![npm package](https://img.shields.io/npm/v/npmdoc-console.table.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-console.table) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-console.table.svg)](https://travis-ci.org/npmdoc/node-npmdoc-console.table)
+# npmdoc-console.table
+
+#### api documentation for  [console.table (v0.8.0)](https://github.com/bahmutov/console.table)  [![npm package](https://img.shields.io/npm/v/npmdoc-console.table.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-console.table) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-console.table.svg)](https://travis-ci.org/npmdoc/node-npmdoc-console.table)
+
 #### Adds console.table method that prints an array of objects as a table in console
 
-[![NPM](https://nodei.co/npm/console.table.png?downloads=true)](https://www.npmjs.com/package/console.table)
+[![NPM](https://nodei.co/npm/console.table.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/console.table)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-console.table/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-console.table_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-console.table/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-console.table/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-console.table/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-console.table/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-console.table/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-console.table/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Gleb Bahmutov",
-        "email": "gleb.bahmutov@gmail.com"
+        "name": "Gleb Bahmutov"
     },
     "bugs": {
         "url": "https://github.com/bahmutov/console.table/issues"
@@ -91,13 +95,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "bahmutov",
-            "email": "gleb.bahmutov@gmail.com"
+            "name": "bahmutov"
         }
     ],
     "name": "console.table",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "release": {
         "verifyConditions": {
             "path": "condition-node-version",
@@ -120,16 +122,6 @@
     "version": "0.8.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module console.table](#apidoc.module.console.table)
-
-
-
-# <a name="apidoc.module.console.table"></a>[module console.table](#apidoc.module.console.table)
 
 
 
